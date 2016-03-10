@@ -1,4 +1,0 @@
----
-title: Military Operations (MilOps)
----
-

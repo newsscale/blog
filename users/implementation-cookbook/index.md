@@ -15,9 +15,9 @@ Remember, NIEM and other data standards are independent of any particular softwa
 At the end of the day, each implementation recipe produces consumable, access controlled data. We encourage you to contribute to the open data conversation through groups like [18F](https://github.com/18f).
 
 <a href="https://github.com/NIEM/Implementation-Cookbook/wiki" class="btn submit-btn">
-  <span class="content">
-    View the implementation cookbook.  
-    Add your recipes!
-  </span>
-  <span class="icon fa fa-chevron-circle-right fa-2x"></span>
+<span class="content">
+View the implementation cookbook.  
+Add your recipes!
+</span>
+<span class="icon fa fa-chevron-circle-right fa-2x"></span>
 </a>
