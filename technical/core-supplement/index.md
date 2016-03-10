@@ -1,5 +1,5 @@
 ---
-title: Using a NIEM Core Supplement
+title: Core Supplement
 ---
 #### 28 May 2015
 
