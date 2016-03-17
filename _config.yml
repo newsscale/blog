@@ -1,6 +1,5 @@
 # Site settings
 title: NIEM
-baseurl: /NIEM.github.io
 exclude: [
   Gemfile,
   Gemfile.lock,
